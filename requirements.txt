@@ -1,0 +1,3 @@
+aiotodoist==8.0.0
+aiohubot
+aiohttp[speedups]
